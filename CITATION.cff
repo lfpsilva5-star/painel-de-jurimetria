@@ -6,10 +6,13 @@ type: software
 authors:
   - family-names: "Pereira da Silva"
     given-names: "Lucas Fernando"
+    orcid: "https://orcid.org/0009-0001-6218-2060"
+    affiliation: "Programa de Pós-Graduação em Direito, Universidade de Brasília (PPGD/UnB)"
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-20"
-repository-code: "https://github.com/lfpsilva5-star/painel-de-dados"
+repository-code: "https://github.com/lfpsilva5-star/painel-de-jurimetria"
+url: "https://lfpsilva5-star.github.io/painel-de-jurimetria/"
 keywords:
   - jurimetria
   - pesquisa empírica em direito

@@ -2,8 +2,28 @@
   "title": "Painel de Jurimetria",
   "upload_type": "software",
   "description": "<p>Mesa de leitura, codificação e análise para pesquisa empírica com decisões judiciais. O pesquisador sobe a planilha da coleta e os textos das decisões em TXT, informa os termos de busca do levantamento, define o livro de códigos e os campos da ficha, e trabalha com fila de leitura, marca-texto, dupla revisão com consenso e kappa, e análises estatísticas e de corpus. Os dados ficam no navegador.</p>",
-  "creators": [{"name": "Pereira da Silva, Lucas Fernando"}],
+  "creators": [
+    {
+      "name": "Pereira da Silva, Lucas Fernando",
+      "orcid": "0009-0001-6218-2060",
+      "affiliation": "Programa de Pós-Graduação em Direito, Universidade de Brasília (PPGD/UnB)"
+    }
+  ],
   "license": "MIT",
   "language": "por",
-  "keywords": ["jurimetria", "pesquisa empírica em direito", "decisões judiciais", "análise de conteúdo", "codificação qualitativa", "linguística de corpus"]
+  "keywords": [
+    "jurimetria",
+    "pesquisa empírica em direito",
+    "decisões judiciais",
+    "análise de conteúdo",
+    "codificação qualitativa",
+    "linguística de corpus"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lfpsilva5-star/painel-de-jurimetria",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }

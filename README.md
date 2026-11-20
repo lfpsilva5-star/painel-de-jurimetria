@@ -4,11 +4,13 @@ Mesa de leitura, codificação e análise para pesquisa empírica com decisões 
 
 Tudo roda no navegador. A planilha, os textos e as codificações ficam guardados no próprio computador (IndexedDB) e nada é enviado a servidor. As bibliotecas de leitura de XLSX e ZIP estão no repositório, sem dependência de CDN.
 
+Desenvolvido por Lucas Fernando Pereira da Silva ([ORCID 0009-0001-6218-2060](https://orcid.org/0009-0001-6218-2060)), mestrando do Programa de Pós-Graduação em Direito da Universidade de Brasília (PPGD/UnB).
+
 O painel nasceu da Mesa de leitura PSR, usada na pesquisa sobre a população em situação de rua nos acórdãos criminais do TJDFT, e foi generalizado para qualquer tema.
 
 ## Como usar
 
-Abra o painel publicado (GitHub Pages) ou baixe o repositório e dê duplo clique em `index.html`. Na tela inicial, **Abrir o exemplo fictício** carrega dezoito decisões inventadas sobre o princípio da insignificância no furto, para conhecer o fluxo antes de subir os próprios dados.
+Abra o painel publicado em <https://lfpsilva5-star.github.io/painel-de-jurimetria/> (depois de ativado o GitHub Pages) ou baixe o repositório e dê duplo clique em `index.html`. Na tela inicial, **Abrir o exemplo fictício** carrega dezoito decisões inventadas sobre o princípio da insignificância no furto, para conhecer o fluxo antes de subir os próprios dados.
 
 ### Preparar os dados
 
