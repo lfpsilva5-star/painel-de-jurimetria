@@ -81,3 +81,7 @@ node tests/navegador.mjs
 ```
 
 Os testes abrem o `index.html` por `file://` no Chromium, conferem as funções de importação, datas, termos e junção de codificações, e percorrem o fluxo completo: exemplo, codificação pelo teclado, todas as análises, troca de arquivos entre dois revisores, criação de projeto pela interface e leitura em tela de celular.
+
+## Licença
+
+Código sob a [licença MIT](LICENSE): qualquer pessoa pode usar, modificar e redistribuir, desde que mantenha o aviso de autoria e de licença. As bibliotecas em `vendor/` seguem as próprias licenças, cujos textos estão na mesma pasta: SheetJS (Apache-2.0) e fflate (MIT). O exemplo fictício pode ser reutilizado livremente.
