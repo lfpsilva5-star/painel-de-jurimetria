@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se usar este software em pesquisa, cite-o com os dados abaixo."
+title: "Painel de Jurimetria"
+abstract: "Mesa de leitura, codificação e análise para pesquisa empírica com decisões judiciais: importação de planilha e textos em TXT, marca-texto pelos termos de busca da coleta, livro de códigos configurável, dupla revisão com consenso e kappa, e análises estatísticas e de corpus, com os dados mantidos no navegador."
+type: software
+authors:
+  - family-names: "Pereira da Silva"
+    given-names: "Lucas Fernando"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-20"
+repository-code: "https://github.com/lfpsilva5-star/painel-de-dados"
+keywords:
+  - jurimetria
+  - pesquisa empírica em direito
+  - decisões judiciais
+  - análise de conteúdo
+  - codificação qualitativa
+  - linguística de corpus

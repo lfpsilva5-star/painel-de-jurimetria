@@ -82,6 +82,12 @@ node tests/navegador.mjs
 
 Os testes abrem o `index.html` por `file://` no Chromium, conferem as funções de importação, datas, termos e junção de codificações, e percorrem o fluxo completo: exemplo, codificação pelo teclado, todas as análises, troca de arquivos entre dois revisores, criação de projeto pela interface e leitura em tela de celular.
 
+## Como citar
+
+Os dados de citação estão em [`CITATION.cff`](CITATION.cff); o GitHub mostra o botão "Cite this repository" a partir dele. Depois do arquivamento no Zenodo, a citação passa a incluir o DOI.
+
+> PEREIRA DA SILVA, Lucas Fernando. *Painel de Jurimetria*. Versão 1.0.0. 2026. Software.
+
 ## Licença
 
 Código sob a [licença MIT](LICENSE): qualquer pessoa pode usar, modificar e redistribuir, desde que mantenha o aviso de autoria e de licença. As bibliotecas em `vendor/` seguem as próprias licenças, cujos textos estão na mesma pasta: SheetJS (Apache-2.0) e fflate (MIT). O exemplo fictício pode ser reutilizado livremente.
