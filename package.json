@@ -1,0 +1,9 @@
+{
+  "name": "painel-de-decisoes",
+  "private": true,
+  "description": "Mesa de leitura, codificação e análise para pesquisa empírica com decisões judiciais",
+  "scripts": {
+    "exemplo": "node ferramentas/gera-exemplo.mjs",
+    "test": "node tests/navegador.mjs"
+  }
+}

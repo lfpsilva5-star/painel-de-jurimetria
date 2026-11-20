@@ -1,0 +1,19 @@
+﻿id;processo;data_julgamento;orgao_julgador;classe;valor_res;reincidente;resultado;codigo_previo;fundamentos_previos
+1001;07001001-10.2021.8.99.0001;11/02/2021;1ª Turma Criminal;Apelação Criminal;42,9;não;Provido;APL;
+1002;07001002-11.2021.8.99.0001;22/04/2021;2ª Turma Criminal;Apelação Criminal;310;sim;Desprovido;AFA;reincidência
+1003;07001003-12.2021.8.99.0001;17/06/2021;3ª Turma Criminal;Habeas Corpus;18,5;não;Concedida a ordem;APL;
+1004;07001004-13.2021.8.99.0001;02/09/2021;1ª Turma Criminal;Apelação Criminal;1250;não;Desprovido;AFA;valor não ínfimo
+1005;07001005-14.2021.8.99.0001;25/11/2021;2ª Turma Criminal;Apelação Criminal;65;sim;Parcialmente provido;AFA;"reincidência; habitualidade"
+1006;07001006-15.2022.8.99.0001;10/02/2022;3ª Turma Criminal;Apelação Criminal;27;não;Provido;APL;
+1007;07001007-16.2022.8.99.0001;31/03/2022;1ª Turma Criminal;Recurso em Sentido Estrito;90;não;Desprovido;NAO;
+1008;07001008-17.2022.8.99.0001;19/05/2022;2ª Turma Criminal;Apelação Criminal;480;sim;Desprovido;AFA;"reincidência; qualificadora"
+1009;07001009-18.2022.8.99.0001;04/08/2022;3ª Turma Criminal;Apelação Criminal;12;não;Provido;APL;
+1010;07001010-19.2022.8.99.0001;29/09/2022;1ª Turma Criminal;Habeas Corpus;150;sim;Denegada a ordem;AFA;habitualidade
+1011;07001011-20.2022.8.99.0001;15/12/2022;2ª Turma Criminal;Apelação Criminal;33,4;não;Provido;APL;
+1012;07001012-21.2023.8.99.0001;09/03/2023;3ª Turma Criminal;Apelação Criminal;2100;não;Desprovido;AFA;valor não ínfimo
+1013;07001013-22.2023.8.99.0001;25/05/2023;1ª Turma Criminal;Apelação Criminal;58;sim;Provido;APL;
+1014;07001014-23.2023.8.99.0001;17/08/2023;2ª Turma Criminal;Agravo em Execução Penal;0;não;Desprovido;EXC;
+1015;07001015-24.2023.8.99.0001;26/10/2023;3ª Turma Criminal;Apelação Criminal;76;não;Parcialmente provido;NAO;
+1016;07001016-25.2024.8.99.0001;08/02/2024;1ª Turma Criminal;Apelação Criminal;22;sim;Desprovido;AFA;reincidência
+1017;07001017-26.2024.8.99.0001;18/04/2024;2ª Turma Criminal;Apelação Criminal;640;não;Desprovido;AFA;"valor não ínfimo; qualificadora"
+1018;07001018-27.2024.8.99.0001;27/06/2024;3ª Turma Criminal;Habeas Corpus;19,9;não;Concedida a ordem;APL;
