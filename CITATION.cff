@@ -9,6 +9,11 @@ authors:
     orcid: "https://orcid.org/0009-0001-6218-2060"
     affiliation: "Programa de Pós-Graduação em Direito, Universidade de Brasília (PPGD/UnB)"
 license: MIT
+doi: "10.5281/zenodo.24387950"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24387950"
+    description: "Arquivo do software no Zenodo"
 version: "1.0.0"
 date-released: "2026-11-20"
 repository-code: "https://github.com/lfpsilva5-star/painel-de-jurimetria"

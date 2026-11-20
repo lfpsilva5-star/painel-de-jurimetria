@@ -1,5 +1,7 @@
 # Painel de Jurimetria
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24387950.svg)](https://doi.org/10.5281/zenodo.24387950)
+
 Mesa de leitura, codificação e análise para pesquisa empírica com decisões judiciais. O pesquisador sobe a planilha da própria coleta e os textos das decisões em TXT, informa os termos de busca que usou no levantamento, define o livro de códigos e os campos da ficha, e trabalha com fila de leitura, marca-texto, dupla revisão com consenso, tabela, progresso e análises estatísticas e de corpus.
 
 Tudo roda no navegador. A planilha, os textos e as codificações ficam guardados no próprio computador (IndexedDB) e nada é enviado a servidor. As bibliotecas de leitura de XLSX e ZIP estão no repositório, sem dependência de CDN.
@@ -86,9 +88,9 @@ Os testes abrem o `index.html` por `file://` no Chromium, conferem as funções 
 
 ## Como citar
 
-Os dados de citação estão em [`CITATION.cff`](CITATION.cff); o GitHub mostra o botão "Cite this repository" a partir dele. Depois do arquivamento no Zenodo, a citação passa a incluir o DOI.
+Os dados de citação estão em [`CITATION.cff`](CITATION.cff); o GitHub mostra o botão "Cite this repository" a partir dele. O software está arquivado no Zenodo.
 
-> PEREIRA DA SILVA, Lucas Fernando. *Painel de Jurimetria*. Versão 1.0.0. 2026. Software.
+> PEREIRA DA SILVA, Lucas Fernando. *Painel de Jurimetria*. Versão 1.0.0. Brasília: PPGD/UnB, 2026. Software. DOI: https://doi.org/10.5281/zenodo.24387950.
 
 ## Licença
 
