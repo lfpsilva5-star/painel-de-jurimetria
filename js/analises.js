@@ -56,7 +56,7 @@ function universo(){let U=A.univ==="fila"?S.lista.map(id=>S.byId.get(id)):S.caso
 function descUniv(U){const b=A.univ==="fila"?"a fila da Leitura com os filtros em uso":`todas as decisões do projeto “${S.cfg.nome}”`;
   return `${b}${A.soCod?`, só as codificadas como ${codRot(A.soCod)} pela fonte "${fonteTxt(A.fonte)}"`:""} (${nfmt(U.length)} decisões)`}
 function rodapeNota(){const n1=Object.values(S.rev[1]).filter(r=>r&&r.c).length,n2=Object.values(S.rev[2]).filter(r=>r&&r.c).length,nk=Object.values(S.cons).filter(r=>r&&r.c).length;
-  return `Análise gerada no Painel de decisões em ${hojeBR()}, sobre o projeto “${S.cfg.nome}” e a codificação gravada naquele momento (revisor 1: ${nfmt(n1)} códigos; revisor 2: ${nfmt(n2)}; consensos: ${nfmt(nk)}).`}
+  return `Análise gerada no Painel de Jurimetria em ${hojeBR()}, sobre o projeto “${S.cfg.nome}” e a codificação gravada naquele momento (revisor 1: ${nfmt(n1)} códigos; revisor 2: ${nfmt(n2)}; consensos: ${nfmt(nk)}).`}
 const REFS={
   agresti:"AGRESTI, Alan. An introduction to categorical data analysis. 2. ed. Hoboken: Wiley, 2007.",
   haberman:"HABERMAN, Shelby J. The analysis of residuals in cross-classified tables. Biometrics, v. 29, n. 1, p. 205-220, 1973.",

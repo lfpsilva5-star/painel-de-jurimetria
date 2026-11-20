@@ -1,4 +1,4 @@
-# Painel de decisões judiciais
+# Painel de Jurimetria
 
 Mesa de leitura, codificação e análise para pesquisa empírica com decisões judiciais. O pesquisador sobe a planilha da própria coleta e os textos das decisões em TXT, informa os termos de busca que usou no levantamento, define o livro de códigos e os campos da ficha, e trabalha com fila de leitura, marca-texto, dupla revisão com consenso, tabela, progresso e análises estatísticas e de corpus.
 
@@ -44,7 +44,7 @@ Associação entre variáveis (qui-quadrado, Fisher, Monte Carlo, V de Cramér, 
 
 ## Publicar no GitHub Pages
 
-Em Settings › Pages do repositório, escolha "Deploy from a branch", o branch principal e a pasta raiz (`/`). O painel fica disponível em `https://<usuário>.github.io/painel-de-dados/`. Não há etapa de compilação.
+Em Settings › Pages do repositório, escolha "Deploy from a branch", o branch principal e a pasta raiz (`/`). O painel fica disponível em `https://<usuário>.github.io/painel-de-jurimetria/`. Não há etapa de compilação.
 
 ## Estrutura
 

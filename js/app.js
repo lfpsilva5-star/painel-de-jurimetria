@@ -28,11 +28,11 @@ async function abreProjeto(id){
   const pref=lsGet("painel-pref-"+id,{});S.eu=pref.eu===2?2:1;S.cego=pref.cego!==false;
   S.tcols=null;S.ultimo=p.atualizado||null;
   aplicaTermos();lsSet("painel-ultimo",id);
-  document.title=S.cfg.nome+" · Painel de decisões";
+  document.title=S.cfg.nome+" · Painel de Jurimetria";
 }
 function aplicaTermos(){S.rx.termos=rxTermos(S.cfg.termos);S.rx.normas=rxTermos(S.cfg.normas)}
 function guardaPref(){if(S.proj)lsSet("painel-pref-"+S.proj.id,{eu:S.eu,cego:S.cego})}
-function fechaProjeto(){S.proj=null;S.cfg=null;S.casos=[];S.byId=new Map();document.title="Painel de decisões";location.hash="inicio"}
+function fechaProjeto(){S.proj=null;S.cfg=null;S.casos=[];S.byId=new Map();document.title="Painel de Jurimetria";location.hash="inicio"}
 
 /* ---------- gravação ---------- */
 let gravT=null;

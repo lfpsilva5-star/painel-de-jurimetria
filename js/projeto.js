@@ -6,7 +6,7 @@ const TIPO_EXTRA={cat:"categoria (vira filtro e variável)",num:"número",texto:
 /* ---------- início ---------- */
 async function vistaInicio(m){
   m.innerHTML=`<div class="pagina"><div class="pagina-in inicio">
-    <div class="sec-t"><div><h2>Painel de decisões judiciais</h2>
+    <div class="sec-t"><div><h2>Painel de Jurimetria</h2>
       <p class="lead">Mesa de leitura e codificação para pesquisa empírica com decisões judiciais. Suba a planilha da sua coleta e os textos em TXT, informe os termos de busca e o livro de códigos, e trabalhe com leitura, dupla revisão e análises. Os dados ficam só neste navegador: nada é enviado a servidor.</p></div></div>
     <div class="links"><a class="btn pri" href="#novo">Criar projeto</a><label class="btn" for="abre-pacote">Abrir pacote de projeto (.zip)</label><input type="file" id="abre-pacote" accept=".zip" hidden><button class="btn" id="abre-exemplo">Abrir o exemplo fictício</button></div>
     <p class="mini" id="ini-msg" role="status"></p>

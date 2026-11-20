@@ -1,10 +1,10 @@
-# Painel de decisões judiciais: desenho
+# Painel de Jurimetria: desenho
 
 ## Intenção
 
 Transformar a "Mesa de leitura PSR" (artefato do Claude, corpus fixo de acórdãos do TJDFT sobre população em situação de rua) numa ferramenta aberta para quem pesquisa decisões judiciais. Cada pesquisador sobe a planilha da própria coleta e os textos das decisões, configura as variáveis da pesquisa e opera o painel como a mesa original: fila de leitura, folha com marca-texto, ficha de codificação, dupla revisão com consenso, tabela, progresso e análises.
 
-O código fica público no repositório `painel-de-dados`.
+O código fica público no repositório `painel-de-jurimetria`.
 
 ## Objetivos
 
